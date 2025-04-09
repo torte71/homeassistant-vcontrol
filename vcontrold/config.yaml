@@ -13,7 +13,7 @@ arch:
 init: false
 options:
   tty: "/dev/ttyUSB0"
-  refresh: 5
+  refresh: 10
   device_id: "20CB"
   mqtt_topic: "openv"
   debug: true
